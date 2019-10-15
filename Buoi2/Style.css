@@ -1,0 +1,155 @@
+.b
+{
+    width: 99%;
+    height: 200px;
+    background-color: gray ;
+}
+.Chinh{
+    width: 100%;
+    height: 582px;
+    background-color: gray;
+}
+.pink
+{
+    width: 98%;
+    height: 50px;
+    border: solid white 2px;
+    margin-left: 1%;
+    margin-right:1%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: pink;
+}
+.c60
+{
+    width: 58.5%;
+    height: 500px;
+    margin-left: 1%;
+    margin-right: 1.35%;
+    float: left;
+}
+.c40
+{
+    width: 38.45%;
+    height: 500px;
+    float : left;
+}
+.xanh
+{
+    width: 99.5%;
+    height: 235px;
+    background-color: aquamarine;
+    border: solid white 2px;
+}
+.DCT
+{
+    width: 99.9%;
+    height: 246px;
+    margin-top: 15px;
+}
+.RO
+{
+    width: 48%;
+    height: 246;
+    float: left;
+    margin-right: 18px;
+}
+.red
+{
+    width: 100%;
+    height: 90px;
+    background-color: red;
+    border: solid white 2px;
+    margin-bottom: 15px;
+}
+.orange
+{
+    width: 100%;
+    height: 133px;
+    background-color: orange;
+    border: solid white 2px;
+}
+.violet
+{
+    width: 49.175%;
+    height: 242px;
+    background-color: violet;
+    border: solid white 2px;
+    float: left;
+}
+.hardvio
+{
+    width: 75%;
+    height: 100px;
+    background-color: rgb(68, 6, 126);
+    border: solid white 2px;
+    float: left;
+    margin-right: 13.15px;
+}
+.xanhdam
+{
+    width: 20.85%;
+    height: 100px;
+    background-color: rgb(2, 63, 22);
+    border: solid white 2px;
+    float: left;
+}
+.HX
+{
+    width: 100%;
+    height: 104px;
+    margin-bottom: 15px;
+}
+.yellow
+{
+    width: 99.25%;
+    height: 60px;
+    background-color: yellow;
+    border: solid white 2px;
+    margin-bottom: 15px ;
+}
+.xanh1
+{
+    width: 31%;
+    height: 220px;
+    background-color: rgb(10, 124, 67);
+    border: solid white 2px;
+    margin-right:15px;
+}
+.do
+{
+    width: 31%;
+    height: 220px;
+    background-color: red;
+    border: solid white 2px ;
+    margin-right: 15px;
+}
+.xanh2
+{
+    width: 31%;
+    height: 220px;
+    background-color: rgb(10, 124, 67);
+    border: solid white 2px;
+}
+.X2D
+{
+    width: 100%;
+    height: 224px;
+    display: flex;
+    margin-bottom: 15px;
+}
+.TT
+{
+    width: 99.5%;
+    height: 58.5px;
+    background-color: rgb(228, 164, 69);
+    border: solid white 2px;
+}
+.footer
+{
+    width: 98.1%;
+    height: 75px;
+    background-color: black;
+    border: solid white 2px;
+    margin-left: 13px;
+}
