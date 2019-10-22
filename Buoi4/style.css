@@ -1,0 +1,60 @@
+.main{
+    width: 100%;
+    padding-top:0px;
+}
+.menu{
+    list-style: none;
+    padding-left:0px ;
+    display:flex;
+    background-color: grey;
+}
+.menu li{
+    font-size: 20px;
+    color: rgb(90, 12, 12);
+    padding: 20px 20px;
+    position: relative;
+}
+.menu li:hover{
+    background-color: aqua;
+    cursor: pointer;
+    color: blue;
+}
+.menu2{
+    background-color: grey;
+    display: none;
+    width: 150%;
+    list-style: none;
+    position: absolute;
+    left: 0%;
+    top: 100%;
+    padding-left:0px;
+}
+.menu li:hover .menu2
+{
+    display: block;
+}
+.menu2 li{
+    background-color: azure;
+    box-shadow: saddlebrown;
+    color: black;
+    position: relative;
+}
+.menu li:hover .menu2 li:hover{
+    background-color: white;
+    color: coral;
+}
+.menu3{
+    display: none;
+    box-shadow: 5%;
+    padding: 0px;
+    position: absolute;
+    background-color:white;
+    list-style: none;
+    left: 100%;
+    top: 0%;
+}
+.menu3 li{
+    color:black;
+}.menu2 li:hover .menu3{
+    display: block;
+}
